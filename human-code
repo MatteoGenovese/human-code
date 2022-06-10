@@ -51,6 +51,8 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
                 mangio la pizza
                 ?se non finisco la pizza
                     la metto nel frigo
+            ?altrimenti
+                digiuno
         se tempo trascorso > 20 minuti
             digiuno
 		
